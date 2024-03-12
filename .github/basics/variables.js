@@ -23,4 +23,4 @@ console.log(studentIdPassword);
 
 console.table([studentId, studentAddress,studentIdPassword,studentCity,studentState])
 //values(5673,hudda,213231,Sirsa,undefined) value of studentState gonna be undefined because it is only declared 
-but no value is given to it.
+//but no value is given to it.
